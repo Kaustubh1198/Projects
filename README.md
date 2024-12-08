@@ -1,2 +1,3 @@
 # Projects
-This section has project 
+Hi , I'm Kaustubh Krishan.
+This repository is for project. 
